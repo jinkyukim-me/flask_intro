@@ -185,7 +185,7 @@ sqlparse==0.3.0
 srsly==0.1.0
 tb-nightly==1.14.0a20190603
 tensorboard==1.6.0
-tensorflow==1.6.0
+tensorflow==1.12.2
 tensorflow-estimator==1.14.0
 tensorflow-estimator-2.0-preview==1.14.0.dev2019080700
 tensorflow-gpu==2.0.0rc0
